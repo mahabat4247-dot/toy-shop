@@ -35,3 +35,4 @@ On merge to `main` it builds the Docker image and pushes it to Amazon ECR (`toy-
 
 Project by Marta Dzekevich
 Made by Marta
+Toy Shop CI Project
